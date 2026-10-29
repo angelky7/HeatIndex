@@ -7,7 +7,7 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-10-29T14:49:10",
+  "updated": "2026-10-29T23:54:50",
   "records": [
     {
       "date": "2025-10-29",
@@ -2921,7 +2921,7 @@
     },
     {
       "date": "2026-05-30",
-      "buzz_index": 49.2,
+      "buzz_index": 49.1,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3440,7 +3440,7 @@
     },
     {
       "date": "2026-07-07",
-      "buzz_index": 70.8,
+      "buzz_index": 70.7,
       "close": 1.624,
       "log_close": 0.4849,
       "open": 1.618,
@@ -3660,7 +3660,7 @@
     },
     {
       "date": "2026-07-23",
-      "buzz_index": 80.3,
+      "buzz_index": 80.2,
       "close": 1.589,
       "log_close": 0.4631,
       "open": 1.597,
@@ -4400,7 +4400,7 @@
     },
     {
       "date": "2026-09-15",
-      "buzz_index": 95.7,
+      "buzz_index": 95.8,
       "close": 1.621,
       "log_close": 0.483,
       "open": 1.63,
@@ -4414,7 +4414,7 @@
     },
     {
       "date": "2026-09-16",
-      "buzz_index": 95.4,
+      "buzz_index": 95.5,
       "close": 1.631,
       "log_close": 0.4892,
       "open": 1.618,
@@ -4456,7 +4456,7 @@
     },
     {
       "date": "2026-09-19",
-      "buzz_index": 95.1,
+      "buzz_index": 95.2,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4469,7 +4469,7 @@
     },
     {
       "date": "2026-09-20",
-      "buzz_index": 94.7,
+      "buzz_index": 94.8,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4496,7 +4496,7 @@
     },
     {
       "date": "2026-09-22",
-      "buzz_index": 94.5,
+      "buzz_index": 94.6,
       "close": 1.714,
       "log_close": 0.5388,
       "open": 1.704,
@@ -4524,7 +4524,7 @@
     },
     {
       "date": "2026-09-24",
-      "buzz_index": 94.7,
+      "buzz_index": 94.8,
       "close": 1.707,
       "log_close": 0.5347,
       "open": 1.707,
@@ -4577,7 +4577,7 @@
     },
     {
       "date": "2026-09-28",
-      "buzz_index": 93.0,
+      "buzz_index": 93.1,
       "close": 1.698,
       "log_close": 0.5295,
       "open": 1.707,
@@ -4591,7 +4591,7 @@
     },
     {
       "date": "2026-09-29",
-      "buzz_index": 93.1,
+      "buzz_index": 93.2,
       "close": 1.708,
       "log_close": 0.5353,
       "open": 1.692,
@@ -4984,7 +4984,7 @@
     },
     {
       "date": "2026-10-28",
-      "buzz_index": 95.5,
+      "buzz_index": 95.6,
       "close": 1.708,
       "log_close": 0.5353,
       "open": 1.691,
@@ -4998,7 +4998,7 @@
     },
     {
       "date": "2026-10-29",
-      "buzz_index": 95.1,
+      "buzz_index": 95.3,
       "close": 1.69,
       "log_close": 0.5247,
       "open": 1.682,
@@ -5011,5 +5011,5 @@
       "slope_full": -0.018
     }
   ],
-  "posts_count": 36787
+  "posts_count": 37049
 }
