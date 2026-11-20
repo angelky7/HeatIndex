@@ -7,7 +7,7 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-11-20T01:45:49",
+  "updated": "2026-11-20T16:31:51",
   "records": [
     {
       "date": "2025-11-20",
@@ -3166,7 +3166,7 @@
     },
     {
       "date": "2026-07-09",
-      "buzz_index": 65.7,
+      "buzz_index": 65.6,
       "close": 1.618,
       "log_close": 0.4812,
       "open": 1.609,
@@ -3742,7 +3742,7 @@
     },
     {
       "date": "2026-08-20",
-      "buzz_index": 88.8,
+      "buzz_index": 88.7,
       "close": 1.647,
       "log_close": 0.499,
       "open": 1.651,
@@ -3770,7 +3770,7 @@
     },
     {
       "date": "2026-08-22",
-      "buzz_index": 89.0,
+      "buzz_index": 88.9,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4422,7 +4422,7 @@
     },
     {
       "date": "2026-10-09",
-      "buzz_index": 91.3,
+      "buzz_index": 91.2,
       "close": 1.769,
       "log_close": 0.5704,
       "open": 1.746,
@@ -4682,7 +4682,7 @@
     },
     {
       "date": "2026-10-28",
-      "buzz_index": 90.8,
+      "buzz_index": 90.9,
       "close": 1.708,
       "log_close": 0.5353,
       "open": 1.691,
@@ -4820,7 +4820,7 @@
     },
     {
       "date": "2026-11-07",
-      "buzz_index": 97.3,
+      "buzz_index": 97.4,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4984,7 +4984,7 @@
     },
     {
       "date": "2026-11-19",
-      "buzz_index": 94.2,
+      "buzz_index": 94.3,
       "close": 1.61,
       "log_close": 0.4762,
       "open": 1.61,
@@ -4998,17 +4998,18 @@
     },
     {
       "date": "2026-11-20",
-      "buzz_index": 93.7,
-      "close": null,
-      "log_close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "amount": null,
-      "is_trading": false,
-      "slope_full": 0.008
+      "buzz_index": 93.8,
+      "close": 1.526,
+      "log_close": 0.4226,
+      "open": 1.553,
+      "high": 1.556,
+      "low": 1.525,
+      "volume": 9357956,
+      "amount": 0.0,
+      "is_trading": true,
+      "slope": -0.084,
+      "slope_full": -0.084
     }
   ],
-  "posts_count": 47330
+  "posts_count": 47568
 }
