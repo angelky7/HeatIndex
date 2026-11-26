@@ -7,22 +7,8 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-11-25T18:19:29",
+  "updated": "2026-11-26T02:45:57",
   "records": [
-    {
-      "date": "2025-11-25",
-      "buzz_index": null,
-      "close": 1.422,
-      "log_close": 0.3521,
-      "open": 1.429,
-      "high": 1.429,
-      "low": 1.419,
-      "volume": 8144577,
-      "amount": 0.0,
-      "is_trading": true,
-      "slope": null,
-      "slope_full": null
-    },
     {
       "date": "2025-11-26",
       "buzz_index": null,
@@ -34,8 +20,8 @@
       "volume": 8638794,
       "amount": 0.0,
       "is_trading": true,
-      "slope": 0.021,
-      "slope_full": 0.021
+      "slope": null,
+      "slope_full": null
     },
     {
       "date": "2025-11-27",
@@ -2960,7 +2946,7 @@
     },
     {
       "date": "2026-06-29",
-      "buzz_index": 63.6,
+      "buzz_index": 63.5,
       "close": 1.63,
       "log_close": 0.4886,
       "open": 1.61,
@@ -3043,7 +3029,7 @@
     },
     {
       "date": "2026-07-05",
-      "buzz_index": 66.3,
+      "buzz_index": 66.2,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3331,7 +3317,7 @@
     },
     {
       "date": "2026-07-26",
-      "buzz_index": 76.2,
+      "buzz_index": 76.1,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3454,7 +3440,7 @@
     },
     {
       "date": "2026-08-04",
-      "buzz_index": 84.6,
+      "buzz_index": 84.5,
       "close": 1.631,
       "log_close": 0.4892,
       "open": 1.621,
@@ -3646,7 +3632,7 @@
     },
     {
       "date": "2026-08-18",
-      "buzz_index": 87.3,
+      "buzz_index": 87.2,
       "close": 1.667,
       "log_close": 0.511,
       "open": 1.675,
@@ -4262,7 +4248,7 @@
     },
     {
       "date": "2026-10-02",
-      "buzz_index": 87.5,
+      "buzz_index": 87.4,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4504,7 +4490,7 @@
     },
     {
       "date": "2026-10-20",
-      "buzz_index": 92.0,
+      "buzz_index": 92.1,
       "close": 1.708,
       "log_close": 0.5353,
       "open": 1.725,
@@ -4970,7 +4956,7 @@
     },
     {
       "date": "2026-11-23",
-      "buzz_index": 93.0,
+      "buzz_index": 93.1,
       "close": 1.517,
       "log_close": 0.4167,
       "open": 1.495,
@@ -4984,7 +4970,7 @@
     },
     {
       "date": "2026-11-24",
-      "buzz_index": 92.8,
+      "buzz_index": 92.9,
       "close": 1.56,
       "log_close": 0.4447,
       "open": 1.565,
@@ -4998,7 +4984,7 @@
     },
     {
       "date": "2026-11-25",
-      "buzz_index": 92.3,
+      "buzz_index": 92.5,
       "close": 1.496,
       "log_close": 0.4028,
       "open": 1.516,
@@ -5009,7 +4995,20 @@
       "is_trading": true,
       "slope": -0.064,
       "slope_full": -0.064
+    },
+    {
+      "date": "2026-11-26",
+      "buzz_index": 92.3,
+      "close": null,
+      "log_close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "amount": null,
+      "is_trading": false,
+      "slope_full": -0.064
     }
   ],
-  "posts_count": 49595
+  "posts_count": 49920
 }
